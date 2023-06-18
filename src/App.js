@@ -51,7 +51,7 @@ function App() {
 
 	return (
 		<div className='flex flex-col justify-center items-center gap-10 py-10'>
-			<h1 className='text-white font-bold text-5xl'>CMS Wiz</h1>
+			<h1 className='text-white font-bold text-5xl'>TicketBot</h1>
 			<div className='max-w-xl drop-shadow-lg flex flex-col items-center w-10/12 gap-5 bg-white p-10 rounded'>
 				<h3 className='text-lg mr-auto'>Enter your question:</h3>
 				<textarea
