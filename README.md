@@ -1,4 +1,4 @@
-# berkeley hackathon react app
+# berkeley/calhacks summer 2023 react app
 This is the frontend app that interacts with the backend to send prompts to the ai model, then return a response with a relevant link so content editors can learn more about how to solve their problems.
 
 ## Available Scripts
